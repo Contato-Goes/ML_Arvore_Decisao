@@ -1,0 +1,1 @@
+https://cdn3.gnarususercontent.com.br/1799-xgboost/02/creditcard.csv
